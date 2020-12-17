@@ -44,20 +44,20 @@ main{
 
 #success{
     font-family: "Microsoft YaHei",微软雅黑;
-    font-size: 5vh;
+    font-size: 4.5vh;
     color: rgb(30,35,41);
 }
 
 #demo{
     font-family: "SimSun",宋体;
-    font-size: 5vh;
+    font-size: 4.5vh;
     color: rgb(30,35,41);
 }
 
 .time{
     box-sizing: border-box;
     /* border: 1px red solid; */
-    height: 21vh;
+    height: 20vh;
     display: flex;
     align-items: flex-start;
     justify-content: center;
